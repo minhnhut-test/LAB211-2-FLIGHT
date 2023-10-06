@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/Dao/AssignmentDao/AssignmentDao.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/FileManager/BoardingPassesFile/BoardingPassesFile.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataBussiness/Entity/Person/Crew.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataBussiness/Services/CustomerServices/CustomerServices.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/Dao/AssignmentDao/IAssignmentDao.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/UserInterface/EntityMenu/CrewMenu.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/Dao/FlightDao/IFlightDao.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/FileManager/FlightFile/FlightFile.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataBussiness/Services/CrewServices/ICrewServices.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/FileManager/AssignmentFile/AssignmentFile.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/UserInterface/EntityMenu/CustomerMenu.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/Dao/Person/ICrewDao.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataBussiness/Services/AssignmentServices/IAssignmentServices.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/FileManager/FlightFile/flight.dat</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/UserInterface/Main.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/UserInterface/EntityMenu/AssignmentMenu.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/Dao/FlightDao/FlightDao.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataBussiness/Services/CrewServices/CrewServices.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/Dao/Person/CrewDao.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/FileManager/CustomerFile/customer.dat</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataBussiness/Services/FlightServices/FlightServices.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/UserInterface/EntityMenu/BoardingPassesMenu.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/UserInterface/EntityMenu/SeatMenu.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataBussiness/Entity/Flight/Flight.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/FileManager/BoardingPassesFile/boardingPasses.dat</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataBussiness/Services/AssignmentServices/AssignmentServices.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/FileManager/SeatFile/seat.dat</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/UserInterface/Menu.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/UserInterface/EntityMenu/FlightMenu.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataBussiness/Validation/DataInput.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataBussiness/Services/IServices.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/FileManager/AssignmentFile/assignment.dat</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/FileManager/SeatFile/SeatFile.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataBussiness/Services/FlightServices/IFlightServices.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/FileManager/CrewFile/crew.dat</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/FileManager/CrewFile/CrewFile.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataBussiness/Entity/Assignment/Assignment.java</file>
+            <file>file:/D:/FPT%20University/Fall2023/LAB211/Lab2/ManagerSystemFlight/src/DataLayer/FileManager/CustomerFile/CustomerFile.java</file>
+        </group>
+    </open-files>
+</project-private>
