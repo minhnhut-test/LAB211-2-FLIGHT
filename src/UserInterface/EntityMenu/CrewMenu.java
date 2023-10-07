@@ -29,6 +29,11 @@ public class CrewMenu {
     public void add() throws ParseException, Exception{
         //--------------------------------------------------------------
         String nameCrew = Validation.convertNullString(DataInput.getString("Enter name please : "));
+        //-------------------------------------------------------------
+        if(nameCrew.equals("N/A")){
+            System.out.println("Name must not null ");
+            return;
+        }
         //--------------------------------------------------------------
         String emailCrew = Validation.convertNullString(DataInput.getString("Enter email please : "));
         //--------------------------------------------------------------

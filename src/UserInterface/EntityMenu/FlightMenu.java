@@ -31,16 +31,8 @@ public class FlightMenu {
           
            
             String departureLocation = Validation.convertNullString(DataInput.getString("Enter departure city : "));
-            if(departureLocation.matches(".*[^a-zA-Z0-9\\\\s].*")){
-                System.out.println("City does not exist");
-                return;
-            }
             //-----------Check----------------------------
             String destinationLocation =  Validation.convertNullString(DataInput.getString("Enter destination city : "));
-             if(destinationLocation.matches(".*[^a-zA-Z0-9\\\\s].*")){
-                System.out.println("City does not exist");
-                return;
-            }
             //-----------Check----------------------------
             Date departureTime = DataInput.getDate("Enter departure time : ");
             //--------------------------------------------
@@ -83,6 +75,11 @@ public class FlightMenu {
             //---------------------------------------------------------------------------
             if(flightList.checkDuplicate(newFlightNumber,flightList.getAll())){
                 System.out.println("Flight number is duplicate");
+                return;
+            }
+            //---------------------------------------------------------------------------
+            if(!newFlightNumber.matches("^F\\d{4}$")){
+                System.out.println("Flight number is not format Fxxxx : ");
                 return;
             }
             //---------------------------------------------------------------------------

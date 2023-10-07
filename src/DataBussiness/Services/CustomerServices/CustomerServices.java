@@ -59,9 +59,11 @@ public class CustomerServices implements ICustomerServices{
             String seatChoice = DataInput.getString("\n Enter your choice : ");
             if(!SeatMenu.getSeatList().addSeatChoice(customer.getFlightNumber(), seatChoice, customer.getIDReservation())){
                 System.out.println("Your seat choice is invalid!");
-                return;
+                seatChoice = null;
             }
-            customer.setStatus("TICKET-ONLINE");
+            if(seatChoice != null){
+                customer.setStatus("TICKET-ONLINE");
+            }
         }
         //-------confirm booking------------------------------------------------------
         String choice = DataInput.getString("Do you want to booking it ? Y/N");

@@ -76,6 +76,11 @@ public class CustomerMenu {
         //--------------------------------------------------------------
         String nameCustomer = Validation.convertNullString(DataInput.getString("Enter name please : "));
         //--------------------------------------------------------------
+        if(nameCustomer.equals("N/A")){
+            System.out.println("Name must not null!");
+            return;
+        }
+        //--------------------------------------------------------------
         String emailCustomer = Validation.convertNullString(DataInput.getString("Enter email please : "));
         //--------------------------------------------------------------
         String addressCustomer = Validation.convertNullString(DataInput.getString("Enter address please : "));
