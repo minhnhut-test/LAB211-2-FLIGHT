@@ -5,7 +5,6 @@
  */
 package DataBussiness.Services.CrewServices;
 
-import DataBussiness.Entity.Flight.Flight;
 import DataBussiness.Entity.Person.Crew;
 import DataBussiness.Services.IServices;
 import java.util.List;

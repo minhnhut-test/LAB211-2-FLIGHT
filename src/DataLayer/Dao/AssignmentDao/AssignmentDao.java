@@ -10,7 +10,6 @@ import DataBussiness.Entity.Flight.Flight;
 import DataBussiness.Entity.Person.Crew;
 import DataBussiness.Validation.Validation;
 import DataLayer.FileManager.AssignmentFile.AssignmentFile;
-import UserInterface.EntityMenu.CrewMenu;
 import DataLayer.FileManager.IFileManager;
 import DataBussiness.Validation.ConstantValue.LinkFile;
 import java.util.ArrayList;

@@ -5,16 +5,13 @@
  */
 package DataBussiness.Services.CustomerServices;
 
-import DataBussiness.Entity.BoardingPasses.BoardingPasses;
 import DataBussiness.Entity.Flight.Flight;
 import DataBussiness.Entity.Person.Customer;
-import DataBussiness.Entity.Seat.Seat;
 import DataBussiness.Validation.DataInput;
 import DataBussiness.Validation.Validation;
 import DataLayer.Dao.Person.ICustomerDao;
 import DataLayer.DaoFactory.DaoFactory;
 import DataLayer.DaoFactory.IDaoFactory;
-import UserInterface.EntityMenu.BoardingPassesMenu;
 import UserInterface.EntityMenu.FlightMenu;
 import UserInterface.EntityMenu.SeatMenu;
 import java.util.List;
